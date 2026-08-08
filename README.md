@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
@@ -34,5 +35,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
