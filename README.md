@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1470-shuffle-the-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/Vikas-Yadav11/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
