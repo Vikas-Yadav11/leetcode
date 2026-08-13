@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vikas-Yadav11/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -61,11 +63,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
