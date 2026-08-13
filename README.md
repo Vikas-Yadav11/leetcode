@@ -64,4 +64,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
