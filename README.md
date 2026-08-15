@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Vikas-Yadav11/leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
@@ -80,5 +81,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 <!---LeetCode Topics End-->
