@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vikas-Yadav11/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0724-find-pivot-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
