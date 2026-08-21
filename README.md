@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0202-happy-number/) | Easy |
+| [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 ## Recursion
@@ -121,4 +122,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vikas-Yadav11/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
