@@ -99,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
+| [2652-sum-multiples](https://github.com/Vikas-Yadav11/leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vikas-Yadav11/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
