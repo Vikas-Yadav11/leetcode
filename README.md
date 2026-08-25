@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Vikas-Yadav11/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikas-Yadav11/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Linked List
@@ -100,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2652-sum-multiples](https://github.com/Vikas-Yadav11/leetcode/tree/main/2652-sum-multiples/) | Easy |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
+| [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
