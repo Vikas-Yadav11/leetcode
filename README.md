@@ -86,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vikas-Yadav11/leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0020-valid-parentheses](https://github.com/Vikas-Yadav11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/Vikas-Yadav11/leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0344-reverse-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
@@ -173,5 +174,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vikas-Yadav11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Vikas-Yadav11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
