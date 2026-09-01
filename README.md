@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0057-insert-interval](https://github.com/Vikas-Yadav11/leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0503-next-greater-element-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -176,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Vikas-Yadav11/leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vikas-Yadav11/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Bracket Sequences
@@ -185,5 +187,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0503-next-greater-element-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Vikas-Yadav11/leetcode/tree/main/0739-daily-temperatures/) | Medium |
 <!---LeetCode Topics End-->
