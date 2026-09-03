@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2652-sum-multiples](https://github.com/Vikas-Yadav11/leetcode/tree/main/2652-sum-multiples/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vikas-Yadav11/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
