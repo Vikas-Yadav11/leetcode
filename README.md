@@ -81,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0383-ransom-note](https://github.com/Vikas-Yadav11/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/Vikas-Yadav11/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0525-contiguous-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/Vikas-Yadav11/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0409-longest-palindrome](https://github.com/Vikas-Yadav11/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Vikas-Yadav11/leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -211,4 +213,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/Vikas-Yadav11/leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Vikas-Yadav11/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0409-longest-palindrome](https://github.com/Vikas-Yadav11/leetcode/tree/main/0409-longest-palindrome/) | Easy |
 <!---LeetCode Topics End-->
