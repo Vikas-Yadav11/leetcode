@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Vikas-Yadav11/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -240,4 +241,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vikas-Yadav11/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
