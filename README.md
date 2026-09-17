@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0503-next-greater-element-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -54,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0015-3sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0015-3sum/) | Medium |
 | [0056-merge-intervals](https://github.com/Vikas-Yadav11/leetcode/tree/main/0056-merge-intervals/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Vikas-Yadav11/leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/Vikas-Yadav11/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Vikas-Yadav11/leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -259,4 +262,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 <!---LeetCode Topics End-->
