@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vikas-Yadav11/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/Vikas-Yadav11/leetcode/tree/main/0502-ipo/) | Hard |
 | [0503-next-greater-element-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0525-contiguous-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vikas-Yadav11/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/Vikas-Yadav11/leetcode/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Binary Search
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0409-longest-palindrome](https://github.com/Vikas-Yadav11/leetcode/tree/main/0409-longest-palindrome/) | Easy |
+| [0502-ipo](https://github.com/Vikas-Yadav11/leetcode/tree/main/0502-ipo/) | Hard |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Ternary Search
 | Problem Name | Difficulty |
@@ -290,6 +293,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Vikas-Yadav11/leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vikas-Yadav11/leetcode/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0502-ipo](https://github.com/Vikas-Yadav11/leetcode/tree/main/0502-ipo/) | Hard |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
 ## Quickselect
