@@ -2,8 +2,8 @@ class Pair{
     char ch;
     int freq;
     Pair(char c,int f){
-         ch=c;
-        freq=f;
+     ch=c;
+     freq=f;
     }
 }
 class Solution {
@@ -21,23 +21,22 @@ class Solution {
         int seat=0;
         while(!pq.isEmpty()){
             ArrayList<Pair>temp=new ArrayList<>();
-            int cycle=n+1;
-             while(cycle>0 && !pq.isEmpty()){
-                Pair p=pq.poll();
-                p.freq--;
-                if(p.freq>0){
-                    temp.add(p);
-                }
-                seat++;
-                cycle--;
-             }
-             for(Pair p:temp){
-                pq.add(p);
-             }
-             if(!pq.isEmpty()) {
-                seat += cycle;
+         int cycle=n+1;
+         while(cycle>0 && !pq.isEmpty()){
+            Pair p=pq.poll();
+            p.freq--;
+            if(p.freq>0){
+                temp.add(p);
             }
-
+            seat++;
+            cycle--; 
+         }
+         for (Pair p:temp){
+            pq.add(p);
+         }
+         if(!pq.isEmpty()){
+            seat=seat+cycle;
+         }
         }
         return seat;
     }
