@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1470-shuffle-the-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Vikas-Yadav11/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
