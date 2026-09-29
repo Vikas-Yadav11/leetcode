@@ -172,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Vikas-Yadav11/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1837-sum-of-digits-in-base-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/1837-sum-of-digits-in-base-k/) | Easy |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0024-swap-nodes-in-pairs](https://github.com/Vikas-Yadav11/leetcode/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Vikas-Yadav11/leetcode/tree/main/0326-power-of-three/) | Easy |
+| [0509-fibonacci-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vikas-Yadav11/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
@@ -320,4 +323,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
