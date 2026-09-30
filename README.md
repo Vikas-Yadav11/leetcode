@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikas-Yadav11/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -69,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Vikas-Yadav11/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0258-add-digits](https://github.com/Vikas-Yadav11/leetcode/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/Vikas-Yadav11/leetcode/tree/main/0412-fizz-buzz/) | Easy |
+| [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Vikas-Yadav11/leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
+| [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
