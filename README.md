@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikas-Yadav11/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Vikas-Yadav11/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2652-sum-multiples](https://github.com/Vikas-Yadav11/leetcode/tree/main/2652-sum-multiples/) | Easy |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Vikas-Yadav11/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Vikas-Yadav11/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Vikas-Yadav11/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
