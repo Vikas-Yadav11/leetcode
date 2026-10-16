@@ -18,23 +18,24 @@ class Solution {
         if(root==null){
             return true;
         }
-        return fun(root.left,root.right);
+           return fun(root.left,root.right);
+        
     }
-    public boolean fun(TreeNode p,TreeNode q){
-        if(p==null && q==null){
-            return true;
-        }
-        if(p==null || q==null){
+        public boolean fun(TreeNode p,TreeNode q){
+            if(p==null && q==null){
+                return true;
+            }
+            if(p==null || q==null){
+                return false;
+            }
+            if(p.val!=q.val){
+                return false;
+            }
+            boolean r1=fun(p.left,q.right);
+            boolean r2=fun(p.right,q.left);
+            if(r1==true && r2==true){
+                return true;
+            }
             return false;
         }
-        if(p.val!=q.val){
-            return false;
-        }
-        boolean r1=fun(p.left,q.right);
-        boolean r2=fun(p.right,q.left);
-        if(r1==true && r2==true){
-            return true;
-        }
-        return false;
     }
-}
