@@ -15,23 +15,24 @@
  */
 class Solution {
     TreeNode ans=null;
-    public TreeNode searchBST(TreeNode root, int val){
-    fun(root,val);
-    return ans;
+    public TreeNode searchBST(TreeNode root, int val) {
+        fun(root,val);
+            return ans;
     }
-    void fun(TreeNode node,int val){
-        if(node==null){
+        void fun(TreeNode node,int val){
+            if(node==null){
+                return;
+            }
+            if(node.val==val){
+                ans=node;
+                return;
+            }
+            if(node.val>val){
+                fun(node.left,val);
+            }else{
+                fun(node.right,val);
+            }
             return;
         }
-        if(node.val==val){
-            ans=node;
-            return;
-        }
-        if(node.val>val){
-            fun(node.left,val);
-        }else{
-            fun(node.right,val);
-        }
-        return;
+        
     }
-}
