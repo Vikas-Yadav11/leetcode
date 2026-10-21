@@ -59,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0202-happy-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Vikas-Yadav11/leetcode/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Vikas-Yadav11/leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Vikas-Yadav11/leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 ## Sorting
@@ -128,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/Vikas-Yadav11/leetcode/tree/main/0525-contiguous-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Vikas-Yadav11/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0621-task-scheduler](https://github.com/Vikas-Yadav11/leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Vikas-Yadav11/leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -365,6 +367,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -377,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -399,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Vikas-Yadav11/leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Vikas-Yadav11/leetcode/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -413,5 +419,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
