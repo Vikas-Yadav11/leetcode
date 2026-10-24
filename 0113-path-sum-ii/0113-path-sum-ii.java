@@ -17,8 +17,8 @@ class Solution {
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> res=new ArrayList<>();
         List<Integer> diary=new ArrayList<>();
-        fun(root,targetSum,0,diary,res);
-        return res;
+      fun(root,targetSum,0,diary,res);
+      return res;
     }
     void fun(TreeNode root,int targetSum,int sum,List<Integer> diary,List<List<Integer>> res){
         if(root==null){
@@ -28,7 +28,7 @@ class Solution {
         diary.add(root.val);
         if(root.left==null && root.right==null){
             if(sum==targetSum){
-                res.add(new ArrayList<>(diary));
+            res.add(new ArrayList<>(diary));
             }
         }
         fun(root.left,targetSum,sum,diary,res);
