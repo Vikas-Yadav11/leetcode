@@ -19,15 +19,15 @@ class Solution {
         fun(root);
         return ans;
     }
-    int fun(TreeNode root){
+     int fun(TreeNode root){
         if(root==null){
             return 0;
         }
         int left=fun(root.left);
         int right=fun(root.right);
         if(Math.abs(left-right)>1){
-            ans=false;
-        }
+            ans=false;      
+              }
         return 1+Math.max(left,right);
     }
 }
