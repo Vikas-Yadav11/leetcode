@@ -23,10 +23,10 @@ class Solution {
         if(root==null){
             return 0;
         }
-        int left=fun(root.left);
-        int right=fun(root.right);
-        int sum=left+right;
-        res=Math.max(res,sum);
-        return 1+Math.max(left,right);
+     int left=fun(root.left);
+     int right=fun(root.right);
+     int sum=left+right;
+     res=Math.max(res,sum);
+     return 1+Math.max(left,right);
     }
 }
