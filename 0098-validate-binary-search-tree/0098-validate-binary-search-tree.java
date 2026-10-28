@@ -20,21 +20,19 @@ class Solution {
         fun(root);
         return ans;
     }
-        void fun(TreeNode root){
-            if(root==null){
-                return;
-            }
-            fun(root.left);
-           if(prev==null){
+    void fun(TreeNode root){
+        if(root==null){
+            return;
+        }
+        fun(root.left);
+        if(prev==null){
             prev=root;
-           }else{
+        }else{
             if(root.val<=prev.val){
                 ans=false;
             }
             prev=root;
-           }
-            fun(root.right);
         }
-        
-    
+    fun(root.right);
+    }
 }
