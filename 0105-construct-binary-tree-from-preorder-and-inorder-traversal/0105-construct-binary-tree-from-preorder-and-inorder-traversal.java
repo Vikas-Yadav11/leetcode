@@ -20,8 +20,7 @@ class Solution {
         for(int i=0;i<inorder.length;i++){
             map.put(inorder[i],i);
         }
-        return fun(preorder,0,inorder.length-1);
-        
+        return fun(preorder,0,inorder.length-1);   
     }
     TreeNode fun(int preorder[],int low,int high){
         if(low>high){
