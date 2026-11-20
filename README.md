@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2798-number-of-employees-who-met-the-target](https://github.com/Vikas-Yadav11/leetcode/tree/main/2798-number-of-employees-who-met-the-target/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vikas-Yadav11/leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vikas-Yadav11/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Vikas-Yadav11/leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0767-reorganize-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/0767-reorganize-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vikas-Yadav11/leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Vikas-Yadav11/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Vikas-Yadav11/leetcode/tree/main/1749-maximum-absolute-sum-of-any-subarray/) | Medium |
 | [1872-stone-game-viii](https://github.com/Vikas-Yadav11/leetcode/tree/main/1872-stone-game-viii/) | Hard |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vikas-Yadav11/leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
