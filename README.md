@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2974-minimum-number-game](https://github.com/Vikas-Yadav11/leetcode/tree/main/2974-minimum-number-game/) | Easy |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/Vikas-Yadav11/leetcode/tree/main/3041-maximize-consecutive-elements-in-an-array-after-modification/) | Hard |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Vikas-Yadav11/leetcode/tree/main/3232-find-if-digit-game-can-be-won/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vikas-Yadav11/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Vikas-Yadav11/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vikas-Yadav11/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vikas-Yadav11/leetcode/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -141,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1189-maximum-number-of-balloons](https://github.com/Vikas-Yadav11/leetcode/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Vikas-Yadav11/leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikas-Yadav11/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vikas-Yadav11/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Vikas-Yadav11/leetcode/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Vikas-Yadav11/leetcode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Vikas-Yadav11/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vikas-Yadav11/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +393,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0958-check-completeness-of-a-binary-tree/) | Medium |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vikas-Yadav11/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -411,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Vikas-Yadav11/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vikas-Yadav11/leetcode/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [3331-find-subtree-sizes-after-changes](https://github.com/Vikas-Yadav11/leetcode/tree/main/3331-find-subtree-sizes-after-changes/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
